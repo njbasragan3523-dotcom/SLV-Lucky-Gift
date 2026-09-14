@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "name": "SLV Lucky Gift",
+    "slug": "slv-lucky-gift",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "android": {
+      "package": "com.slv.luckygift"
+    },
+    "ios": {
+      "bundleIdentifier": "com.slv.luckygift"
+    }
+  }
+}
